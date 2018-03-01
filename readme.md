@@ -1,5 +1,5 @@
 
-* This is a windows batch script to help with pipenv: https://github.com/pypa/pipenv
+* This is a batch script for windows to give you a visual indication that pipenv is in a shell. pipenv: https://github.com/pypa/pipenv
 
 1. Put this file anywhere and add it to you path.
 2. When in your python project folder, run `pvshell` and it will prepend your current prompt with `(pipenv shell)` and run pipenv shell internally
