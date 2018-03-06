@@ -20,7 +20,7 @@ Here are some discussions about adding this natively to pipenv:
 
 ### prun
 
-prun is just a shortcut for `pipenv run`
+prun is a batch script for windows. It is just an alias for `pipenv run`.
 
 Instructions:
 
